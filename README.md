@@ -12,7 +12,6 @@
 - Meu nome é Pedro Braz Leite e sou de Minas Gerais
 - Atualmente trabalho com desenvolvimento Front-End
 - Tenho interesse em desenvolvimentos de jogos e gosto muito de jogar 🎮
-- Desenvolvedor Front-End na [BKPI](https://www.bkpi.io)
 
 ## 📈 Estatísticas
 
